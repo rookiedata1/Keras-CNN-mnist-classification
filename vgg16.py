@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+# @Time    : 2018/12
+# @Author  : wengfutian
+# @Email   : wengfutian@csu.edu.cn
+
 import inspect
 import os
 
