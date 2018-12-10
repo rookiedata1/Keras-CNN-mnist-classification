@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2018/12
-# @Author  : F.T.Weng
+# @Author  : wengfutian
 # @Email   : wengfutian@csu.edu.cn
 # Keras for minist classification
 
