@@ -4,5 +4,5 @@ The main content:<br>
 Contain some classical deep learning model, like Lenet, AleNet, VGGNet, GoogleNet and so on.<br>
 Contain how to save and load model which is trained before.<br>
 Contain how to save model as json file.<br>
-
+[my blog](https://mp.csdn.net/postedit/84798850)
 
